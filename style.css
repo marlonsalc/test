@@ -11,6 +11,7 @@
   
   .head h1 {
     margin: 0;
+    font-family: sans-serif
   }
   
   .head ul {
@@ -28,13 +29,5 @@
     text-decoration: none;
     color: black;
   }
-  
-  En el ejemplo anterior, se han utilizado propiedades CSS para establecer la apariencia y el diseño de la barra de navegación horizontal:
-  
-      Se ha aplicado un color de fondo (background-color) de gris claro a la clase .head.
-      Se ha utilizado la propiedad display: flex para el contenedor interno (div) del encabezado, lo que permite que los elementos se coloquen en una fila horizontal.
-      justify-content: space-between alinea los elementos del contenedor a los extremos, creando espacio entre ellos.
-      align-items: center alinea verticalmente los elementos en el centro del contenedor.
-      Se han aplicado márgenes, rellenos y estilos
   
   

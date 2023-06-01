@@ -2,6 +2,8 @@
 # REPOSITORIO DE PRACTICA GIT
 Este repositorio se crea con el propósito de practicar los comandos principales de Git y familiarizarse con su flujo de trabajo.
 
+![GitHub Logo](/img/logo.png)
+
 ## **COMANDOS DE GIT**
 
 A continuación, se presentan algunos comandos principales de Git que puedes utilizar en este repositorio:
